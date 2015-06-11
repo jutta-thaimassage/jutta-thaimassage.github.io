@@ -163,7 +163,7 @@ footer p {
     .navbar-default {
         border: none;
         background: #fff;
-        background: rgba(255,255,255,0.9);
+        background: rgba(48, 192, 156, 0.8);
     }
 
     .nav>li>a {
