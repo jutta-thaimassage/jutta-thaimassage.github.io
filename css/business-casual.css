@@ -17,6 +17,8 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    background: url("http://cache.desktopnexus.com/wallpapers/1686/1686335-3750x2500-flower.jpg") no-repeat top center;
+    background-size: cover;
 }
 
 h1,
