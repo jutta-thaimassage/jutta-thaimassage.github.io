@@ -138,6 +138,21 @@ p {
     margin-bottom: 20px;
 }
 
+.about-me p {
+    font-size: 14px;
+}
+
+.list {
+    color: #B07F52;
+    margin-top: 20px;
+}
+
+.list li {
+    list-style: none;
+    margin-top: 9px;
+    font-size: 18px;
+}
+
 footer {
 }
 
